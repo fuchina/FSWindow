@@ -1,0 +1,16 @@
+PODS:
+  - FSWindow (0.0.1)
+
+DEPENDENCIES:
+  - FSWindow (from `../`)
+
+EXTERNAL SOURCES:
+  FSWindow:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FSWindow: 937c91f6f11f503ca2a43c0d4038ad0ab0c70134
+
+PODFILE CHECKSUM: 270b00db81ac016566fae672503c66419fbe3b54
+
+COCOAPODS: 1.6.0.beta.2

@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/fuchina/FSWindow.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
-  s.source_files = 'FSWindow/Classes/*'
+  s.source_files = 'FSWindow/classes/*'
   s.frameworks = 'UIKit'
 
 end

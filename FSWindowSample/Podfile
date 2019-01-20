@@ -1,0 +1,8 @@
+platform:ios,'8.2'
+
+target 'FSWindowSample' do
+
+  pod 'FSWindow', :path => '../'
+
+end
+
